@@ -8,7 +8,7 @@ Este projeto busca otimizar a experiência de quem utiliza o metrô, oferecendo 
 
 ## 🌐 Links
 
-- 🔗 **Repositório GitHub**: [Insira aqui o link do GitHub]
+- 🔗 **Repositório GitHub**: [https://github.com/ARC-ceo/ViaMobility-Vercel]
 - 🚀 **Site (Vercel)**: [https://via-mobility-vercell-ybs9-git-main-csclementinos-projects.vercel.app/]
 - 🎥 **Vídeo demonstrativo no YouTube**: [https://youtu.be/YVZ1wDfVEGA]
 
@@ -52,7 +52,7 @@ Base URL:
 1. Clone o repositório:
 
 ```bash
-git clone [insira o link do repositório GitHub]
+git clone [https://github.com/ARC-ceo/ViaMobility-Vercel]
 ```
 
 2. Instale as dependências:
